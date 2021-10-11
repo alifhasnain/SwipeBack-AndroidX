@@ -1,0 +1,17 @@
+com/gw/swipeback/tools/WxSwipeBackActivityManager.java
+ com.gw.swipeback.tools.WxSwipeBackActivityManager
+com/gw/swipeback/SwipeBackLayout.java
+ com.gw.swipeback.SwipeBackLayout
+ com.gw.swipeback.SwipeBackLayout$1
+ com.gw.swipeback.SwipeBackLayout$DirectionMode
+ com.gw.swipeback.SwipeBackLayout$DragHelperCallback
+ com.gw.swipeback.SwipeBackLayout$OnSwipeBackListener
+com/gw/swipeback/tools/Util.java
+ com.gw.swipeback.tools.Util
+com/gw/swipeback/BuildConfig.java
+ com.gw.swipeback.BuildConfig
+com/gw/swipeback/tools/ActivityLifecycleCallbacksAdapter.java
+ com.gw.swipeback.tools.ActivityLifecycleCallbacksAdapter
+com/gw/swipeback/WxSwipeBackLayout.java
+ com.gw.swipeback.WxSwipeBackLayout
+ com.gw.swipeback.WxSwipeBackLayout$1

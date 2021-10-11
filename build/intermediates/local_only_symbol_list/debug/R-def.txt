@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+attr? directionMode
+attr? isSwipeFromEdge
+attr? maskAlpha
+attr? swipeBackFactor
+id bottom
+id left
+id right
+id top
+string app_name
+style Theme.Swipe.Back.NoActionBar
+styleable SwipeBackLayout swipeBackFactor maskAlpha isSwipeFromEdge directionMode
